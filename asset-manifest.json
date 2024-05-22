@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart-React/static/css/main.8667ddf3.css",
+    "main.js": "/Shopping-Cart-React/static/js/main.4bcef851.js",
+    "static/js/453.59eb9ae1.chunk.js": "/Shopping-Cart-React/static/js/453.59eb9ae1.chunk.js",
+    "static/media/lgtv.jpg": "/Shopping-Cart-React/static/media/lgtv.e0bc7c366513fe9053af.jpg",
+    "static/media/visionpro.jpg": "/Shopping-Cart-React/static/media/visionpro.b0247c4cb6fa341cf205.jpg",
+    "static/media/ipad.jpg": "/Shopping-Cart-React/static/media/ipad.1e598914159c828f8a4f.jpg",
+    "static/media/ps5.jpg": "/Shopping-Cart-React/static/media/ps5.2e91e52cc7796e09fe14.jpg",
+    "static/media/realme.jpg": "/Shopping-Cart-React/static/media/realme.43e04d73be7957699bbd.jpg",
+    "static/media/boat.jpg": "/Shopping-Cart-React/static/media/boat.9c916c772bf264954c7f.jpg",
+    "static/media/MSI.jpg": "/Shopping-Cart-React/static/media/MSI.95f4fcdd8dc5b0415261.jpg",
+    "static/media/emptycart.png": "/Shopping-Cart-React/static/media/emptycart.474dd975ee985721f03c.png",
+    "static/media/buds2.jpg": "/Shopping-Cart-React/static/media/buds2.51b4935cc43a2dd4be63.jpg",
+    "static/media/macbook.jpg": "/Shopping-Cart-React/static/media/macbook.38406eacf40920c66449.jpg",
+    "static/media/sony.jpg": "/Shopping-Cart-React/static/media/sony.62263c1ad1b7d6cf9d40.jpg",
+    "static/media/iphone.jpg": "/Shopping-Cart-React/static/media/iphone.20dfd2d440ef3813aa51.jpg",
+    "index.html": "/Shopping-Cart-React/index.html",
+    "main.8667ddf3.css.map": "/Shopping-Cart-React/static/css/main.8667ddf3.css.map",
+    "main.4bcef851.js.map": "/Shopping-Cart-React/static/js/main.4bcef851.js.map",
+    "453.59eb9ae1.chunk.js.map": "/Shopping-Cart-React/static/js/453.59eb9ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8667ddf3.css",
+    "static/js/main.4bcef851.js"
+  ]
+}
